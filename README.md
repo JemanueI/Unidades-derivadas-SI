@@ -1,11 +1,15 @@
 # Unidades derivadas
 
 ## Objetivo
-Esse projeto tem como objetivo mostrar algumas das unidades derivadas do Sistema Internacional de Unidades (SI) que recebem nomes especiais, através de uma tabela escrita em HTML.
+Esse projeto tem como objetivo mostrar algumas das unidades derivadas do Sistema Internacional de Unidades (SI) que recebem nomes especiais, através de uma tabela escrita em HTML com e sem formatação.
 
-## Resultado
+## Resultado sem formatação
 
 ![resultado](https://github.com/JemanueI/Unidades-derivadas-SI/blob/main/resultado.png)
+
+## Resultado com formatação
+
+![resultado-com-formatacao](https://github.com/JemanueI/Unidades-derivadas-SI/blob/main/resultado-com-formatacao.png)
 
 ## Referências
 
